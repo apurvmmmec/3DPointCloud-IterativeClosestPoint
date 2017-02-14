@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "3rdparty/libigl/external/nanogui/ext/eigen/Eigen/src/Core/CommaInitializer.h"
+            timestampString = "508416400.822852"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "CommaInitializer"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Eigen::CommaInitializer&lt;Eigen::Block&lt;Eigen::Matrix&lt;double, -1, -1, 0, -1, -1&gt;, 1, -1, false&gt; &gt;::~CommaInitializer()"
+                  moduleName = "iglFramework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apurvnigam/study_ucl/term2/3DAcquisition/IGLFramework/3rdparty/libigl/external/nanogui/ext/eigen/Eigen/src/Core/CommaInitializer.h"
+                  timestampString = "508416525.376433"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Eigen::CommaInitializer&lt;Eigen::Matrix&lt;float, 4, 1, 0, 4, 1&gt; &gt;::~CommaInitializer()"
+                  moduleName = "iglFramework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apurvnigam/study_ucl/term2/3DAcquisition/IGLFramework/3rdparty/libigl/external/nanogui/ext/eigen/Eigen/src/Core/CommaInitializer.h"
+                  timestampString = "508416525.377737"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Eigen::CommaInitializer&lt;Eigen::Matrix&lt;float, 3, 1, 0, 3, 1&gt; &gt;::~CommaInitializer()"
+                  moduleName = "iglFramework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apurvnigam/study_ucl/term2/3DAcquisition/IGLFramework/3rdparty/libigl/external/nanogui/ext/eigen/Eigen/src/Core/CommaInitializer.h"
+                  timestampString = "508416525.378983"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Eigen::CommaInitializer&lt;Eigen::Matrix&lt;float, 2, 3, 0, 2, 3&gt; &gt;::~CommaInitializer()"
+                  moduleName = "iglFramework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apurvnigam/study_ucl/term2/3DAcquisition/IGLFramework/3rdparty/libigl/external/nanogui/ext/eigen/Eigen/src/Core/CommaInitializer.h"
+                  timestampString = "508416525.38022"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Eigen::CommaInitializer&lt;Eigen::Matrix&lt;float, 2, 2, 0, 2, 2&gt; &gt;::~CommaInitializer()"
+                  moduleName = "iglFramework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apurvnigam/study_ucl/term2/3DAcquisition/IGLFramework/3rdparty/libigl/external/nanogui/ext/eigen/Eigen/src/Core/CommaInitializer.h"
+                  timestampString = "508416525.38158"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Eigen::CommaInitializer&lt;Eigen::Block&lt;Eigen::Matrix&lt;int, -1, -1, 0, -1, -1&gt;, 1, -1, false&gt; &gt;::~CommaInitializer()"
+                  moduleName = "iglFramework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apurvnigam/study_ucl/term2/3DAcquisition/IGLFramework/3rdparty/libigl/external/nanogui/ext/eigen/Eigen/src/Core/CommaInitializer.h"
+                  timestampString = "508416525.383041"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Eigen::CommaInitializer&lt;Eigen::Matrix&lt;double, 1, 3, 1, 1, 3&gt; &gt;::~CommaInitializer()"
+                  moduleName = "iglFramework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apurvnigam/study_ucl/term2/3DAcquisition/IGLFramework/3rdparty/libigl/external/nanogui/ext/eigen/Eigen/src/Core/CommaInitializer.h"
+                  timestampString = "508416525.384344"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Eigen::CommaInitializer&lt;Eigen::Block&lt;Eigen::Matrix&lt;unsigned int, -1, -1, 0, -1, -1&gt;, -1, 1, true&gt; &gt;::~CommaInitializer()"
+                  moduleName = "iglFramework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apurvnigam/study_ucl/term2/3DAcquisition/IGLFramework/3rdparty/libigl/external/nanogui/ext/eigen/Eigen/src/Core/CommaInitializer.h"
+                  timestampString = "508416525.385581"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Eigen::CommaInitializer&lt;Eigen::Matrix&lt;float, 256, 4, 0, 256, 4&gt; &gt;::~CommaInitializer()"
+                  moduleName = "iglFramework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apurvnigam/study_ucl/term2/3DAcquisition/IGLFramework/3rdparty/libigl/external/nanogui/ext/eigen/Eigen/src/Core/CommaInitializer.h"
+                  timestampString = "508416525.386902"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Eigen::CommaInitializer&lt;Eigen::Matrix&lt;double, 3, 3, 0, 3, 3&gt; &gt;::~CommaInitializer()"
+                  moduleName = "iglFramework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apurvnigam/study_ucl/term2/3DAcquisition/IGLFramework/3rdparty/libigl/external/nanogui/ext/eigen/Eigen/src/Core/CommaInitializer.h"
+                  timestampString = "508416525.388151"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "15">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "src/myicp.cpp"
+            timestampString = "508798942.706961"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "myFunc(vector&lt;MatrixXd&gt; vecV, updateView uv)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "src/myicp.cpp"
+            timestampString = "508796901.820952"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "myFunc(vector&lt;MatrixXd&gt; vecV, updateView uv)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "src/myicp.cpp"
+            timestampString = "508798942.706961"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "myFunc(vector&lt;MatrixXd&gt; vecV, updateView uv)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "src/myicp.cpp"
+            timestampString = "508796901.820952"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "myFunc(vector&lt;MatrixXd&gt; vecV, updateView uv)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "src/myicp.cpp"
+            timestampString = "508796901.820952"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "myFunc(vector&lt;MatrixXd&gt; vecV, updateView uv)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "src/myicp.cpp"
+            timestampString = "508798942.706961"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "myFunc(vector&lt;MatrixXd&gt; vecV, updateView uv)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "src/myicp.cpp"
+            timestampString = "508798942.706961"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "myFunc(vector&lt;MatrixXd&gt; vecV, updateView uv)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "src/myicp.cpp"
+            timestampString = "508798942.706961"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "myFunc(vector&lt;MatrixXd&gt; vecV, updateView uv)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "src/myicp.cpp"
+            timestampString = "508798942.706961"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "myFunc(vector&lt;MatrixXd&gt; vecV, updateView uv)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "src/myicp.cpp"
+            timestampString = "508798942.706961"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "findClosestPoints(MatrixXd vp, MatrixXd vq, int vmaxPts)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "src/myicp.cpp"
+            timestampString = "508798942.706961"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "findClosestPoints(MatrixXd vp, MatrixXd vq, int vmaxPts)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "src/main.cpp"
+            timestampString = "508788925.839055"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "526"
+            endingLineNumber = "526"
+            landmarkName = "main(int argc, char * argv[])"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "src/main.cpp"
+            timestampString = "508788925.839055"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "437"
+            endingLineNumber = "437"
+            landmarkName = "updateView1(vector&lt;MatrixXd&gt; vecV)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "src/main.cpp"
+            timestampString = "508788925.839055"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "500"
+            endingLineNumber = "500"
+            landmarkName = "main(int argc, char * argv[])"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "3rdparty/libigl/include/igl/viewer/ViewerData.cpp"
+            timestampString = "508740893.470603"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "331"
+            endingLineNumber = "331"
+            landmarkName = "igl::viewer::ViewerData::add_edges(const Eigen::MatrixXd&amp; P1, const Eigen::MatrixXd&amp; P2, const Eigen::MatrixXd&amp; C)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "3rdparty/libigl/include/igl/viewer/ViewerData.cpp"
+            timestampString = "508740893.470603"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "330"
+            endingLineNumber = "330"
+            landmarkName = "igl::viewer::ViewerData::add_edges(const Eigen::MatrixXd&amp; P1, const Eigen::MatrixXd&amp; P2, const Eigen::MatrixXd&amp; C)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "3rdparty/libigl/include/igl/viewer/ViewerData.cpp"
+            timestampString = "508740893.470603"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "335"
+            endingLineNumber = "335"
+            landmarkName = "igl::viewer::ViewerData::add_edges(const Eigen::MatrixXd&amp; P1, const Eigen::MatrixXd&amp; P2, const Eigen::MatrixXd&amp; C)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "3rdparty/libigl/include/igl/viewer/ViewerData.cpp"
+            timestampString = "508741220.943223"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "329"
+            endingLineNumber = "329"
+            landmarkName = "igl::viewer::ViewerData::add_edges(const Eigen::MatrixXd&amp; P1, const Eigen::MatrixXd&amp; P2, const Eigen::MatrixXd&amp; C)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "src/myicp.cpp"
+            timestampString = "508796901.820952"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "myFunc(vector&lt;MatrixXd&gt; vecV, updateView uv)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "src/myicp.cpp"
+            timestampString = "508798942.706961"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "myFunc(vector&lt;MatrixXd&gt; vecV, updateView uv)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "src/myicp.cpp"
+            timestampString = "508798942.706961"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "myFunc(vector&lt;MatrixXd&gt; vecV, updateView uv)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "src/myicp.cpp"
+            timestampString = "508797380.728007"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "myFunc(vector&lt;MatrixXd&gt; vecV, updateView uv)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "src/myicp.cpp"
+            timestampString = "508796901.820952"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "myFunc(vector&lt;MatrixXd&gt; vecV, updateView uv)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "src/myicp.cpp"
+            timestampString = "508798942.706961"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "findClosestPoints(MatrixXd vp, MatrixXd vq, int vmaxPts)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "src/myicp.cpp"
+            timestampString = "508798942.706961"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "myFunc(vector&lt;MatrixXd&gt; vecV, updateView uv)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
