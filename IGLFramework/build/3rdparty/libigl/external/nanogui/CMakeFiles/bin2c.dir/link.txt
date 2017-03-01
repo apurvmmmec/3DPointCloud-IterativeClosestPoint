@@ -1,1 +1,0 @@
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wno-deprecated-declarations -flto=thin -O2 -g -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -flto=thin -stdlib=libc++ -lc++abi CMakeFiles/bin2c.dir/resources/bin2c.c.o  -o bin2c  
