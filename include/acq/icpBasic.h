@@ -7,8 +7,8 @@
 //
 
 
-#ifndef myicp_h
-#define myicp_h
+#ifndef icpBasic_h
+#define icpBasic_h
 #include "ANN/ANN.h"
 using namespace std;
 using namespace Eigen;
@@ -22,4 +22,4 @@ map<int,int>findClosestPoints(MatrixXd p, MatrixXd q, int maxPts);
 
 
 
-#endif /* myicp_h */
+#endif /* icpBasic_h */
