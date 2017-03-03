@@ -1,7 +1,3 @@
-//
-// Created by bontius on 20/01/17.
-//
-
 #include "acq/impl/cloudManager.hpp"
 #include <iostream>
 
