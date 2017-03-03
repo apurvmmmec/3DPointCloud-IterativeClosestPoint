@@ -13,7 +13,7 @@
 #include <igl/combine.h>
 #include <Eigen/Geometry>
 #include <thread>
-#include <acq/myicp.h>
+#include <acq/icpBasic.h>
 #include <ANN/ANN.h>
 #include<random>
 #include<chrono>
